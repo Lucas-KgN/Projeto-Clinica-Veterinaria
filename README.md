@@ -9,19 +9,19 @@ O aplicativo foi desenvolvido em C# utilizando o Visual Studio Community 2017 (v
 Acesse https://visualstudio.microsoft.com/pt-br/vs/community/, selecione a plataforma utilizada (Windows ou MacOS) e clique em "Baixar o visual Studio"
 Instale normalmente, conforme as instruções que seguirem
 
-Instalação da Aplicação
+# Instalação da Aplicação
 
 Vá para https://github.com/Lucas-KgN/ProjetoClinicaVeterinaria2019-1;
 Clique em "Clone or download" e "Download ZIP";
 Descompacte o arquivo baixado e abra a pasta;
 O arquivo principal é o "ProjetoFinal";
 
-Configuração e execução
+# Configuração e execução
 
 Com o Visual Studio Community e a aplicação baixados, Abra o arquivo "ProjetoFinal" que está na pasta "ProjetoFinal". 
 Basta clicar em "Iniciar" (ou F5 no teclado) para compilar e executar a aplicação.
 
-Conteúdo do repositório
+# Conteúdo do repositório
 
 O repositório contém as pastas:
 
@@ -31,10 +31,10 @@ Persistencia: Projeto que cuida das configurações e faz a efetiva conexão da 
 Servico: Projeto intermediário, que faz a ligação entre a interface a persistência;
 ProjetoFinal: Solução da aplicação, usada para gerenciar os projetos.
 
-IMPORTANTE
+# IMPORTANTE
 
 Não foram feitos testes da aplicação em um ambiente real, não havendo portando nenhuma garantia de sua estabilidade.
 
-Dúvidas ou Sugestões
+# Dúvidas ou Sugestões
 
 Lucas Oliveira: lucasoliveira.2018@alunos.utfpr.edu.br
