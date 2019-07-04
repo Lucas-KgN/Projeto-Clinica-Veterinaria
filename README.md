@@ -11,7 +11,7 @@ Instale normalmente, conforme as instruções que seguirem
 
 # Instalação da Aplicação
 
-Vá para https://github.com/Lucas-KgN/ProjetoClinicaVeterinaria2019-1;
+Vá para https://github.com/Lucas-KgN/Projeto-Clinica-Veterinaria.git;
 Clique em "Clone or download" e "Download ZIP";
 Descompacte o arquivo baixado e abra a pasta;
 O arquivo principal é o "ProjetoFinal";
