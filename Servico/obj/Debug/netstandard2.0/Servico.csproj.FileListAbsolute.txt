@@ -1,0 +1,42 @@
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Servico.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Servico.pdb
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Servico.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Servico.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Servico\obj\Debug\netstandard2.0\Servico.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\bin\Debug\netstandard2.0\Servico.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\bin\Debug\netstandard2.0\Servico.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\obj\Debug\netstandard2.0\Servico.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Servico\obj\Debug\netstandard2.0\Servico.pdb

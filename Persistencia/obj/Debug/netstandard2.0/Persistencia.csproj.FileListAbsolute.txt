@@ -1,0 +1,36 @@
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb

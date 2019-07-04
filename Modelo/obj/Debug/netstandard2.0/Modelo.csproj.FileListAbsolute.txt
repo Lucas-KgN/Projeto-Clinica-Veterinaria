@@ -1,0 +1,27 @@
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Documentos\UTFPR\C.C\Terceiro Período\Programação Orientada A Objetos\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Projeto Final - Renovar Base de Dados\Projeto\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
